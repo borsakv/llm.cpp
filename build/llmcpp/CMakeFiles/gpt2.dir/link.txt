@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgpt2.a 
+/usr/bin/ranlib libgpt2.a

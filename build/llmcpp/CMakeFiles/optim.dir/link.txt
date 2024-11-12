@@ -1,0 +1,2 @@
+/usr/bin/ar qc liboptim.a 
+/usr/bin/ranlib liboptim.a

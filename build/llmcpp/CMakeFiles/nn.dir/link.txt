@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnn.a 
+/usr/bin/ranlib libnn.a

@@ -38,4 +38,3 @@ dev/cuda/global_norm
 # clion files
 .idea
 cmake-build-*
-build

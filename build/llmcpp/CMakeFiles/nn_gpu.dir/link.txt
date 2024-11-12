@@ -1,0 +1,2 @@
+/usr/bin/ar qc libnn_gpu.a 
+/usr/bin/ranlib libnn_gpu.a

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgpt_gpu.a 
+/usr/bin/ranlib libgpt_gpu.a
